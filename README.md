@@ -9,7 +9,7 @@
 [![Gitter](https://badges.gitter.im/alibaba/Sentinel.svg)](https://gitter.im/alibaba/Sentinel)
 [![Maintainability](https://cloud.quality-gate.com/dashboard/api/badge?projectName=alibaba_Sentinel&branchName=master)](https://cloud.quality-gate.com/dashboard/branches/7825#overview)
 
-## Introduction
+### Introduction
 
 As distributed systems become increasingly popular, the reliability between services is becoming more important than ever before.
 Sentinel takes "flow" as breakthrough point, and works on multiple fields including **flow control**,
